@@ -43,3 +43,9 @@ categories in the Fashion-MNIST dataset are:
 `Evaluation metric`: You selected 'accuracy' as the evaluation metric to monitor the model's performance during training.
 
 `Model Training`: You trained the neural network model on the training data for 10-20 epochs. During training, the model learned to map the input images to their corresponding labels through a process of forward and backward propagation
+
+`Model Evaluation`: After training, you evaluated the model's performance on the test data, obtaining a test accuracy. This accuracy reflects how well the model can classify unseen clothing items.
+
+`Making Predictions`: You used the trained model to make predictions on new, unseen images in the test set. The predictions were returned as probability distributions over the 10 clothing categories.
+
+`Visualization`: To gain insights into the model's performance, you visualized a set of test images along with their predicted labels. Correct predictions were displayed in green, and incorrect ones were shown in red.
