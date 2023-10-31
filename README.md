@@ -4,8 +4,8 @@ Fashion-MNIST is a popular dataset for image classification tasks. It serves as 
 
 categories in the Fashion-MNIST dataset are:
 
-`Label`	`Description`
-`0` `T-shirt/top`
+* `Label`	`Description`
+* `0` `T-shirt/top`
 `1` `Trouser`
 `2`	`Pullover`
 `3`	`Dress`
