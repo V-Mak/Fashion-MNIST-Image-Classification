@@ -1,6 +1,8 @@
-# Fashion-MNIST-Image-Classification
+# Fashion-MNIST-Image-Classification using neural networks
 
 Fashion-MNIST is a popular dataset for image classification tasks. It serves as a more challenging alternative to the classic MNIST dataset. Fashion-MNIST consists of 60,000 training images and 10,000 testing images, with each image being a grayscale 28x28 pixel clothing item from one of 10 different categories. The goal is to train a machine learning model to correctly classify these images into their respective categories.
+
+Using neural networks for Fashion-MNIST image classification is a practical and educational exercise, allowing you to apply deep learning techniques to a real-world problem.This project can serve as a foundation for more advanced image classification tasks and deep learning projects.
 
 categories in the Fashion-MNIST dataset are:
 
